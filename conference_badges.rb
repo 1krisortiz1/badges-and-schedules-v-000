@@ -8,7 +8,7 @@ def batch_badge_creator(attendees)
   end
 end
 
-speakers_arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
+#speakers_arr = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def assign_rooms(attendees)
   room = 0
